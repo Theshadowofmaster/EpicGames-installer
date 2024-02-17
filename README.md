@@ -1,2 +1,2 @@
-# EpicGames-installer
-This is Epic games installer it has no viruses because it was uploaded from the real file
+Chrome installer
+This chrome doesn't have any viruses or anything because this is an uploaded file from the real chrome
